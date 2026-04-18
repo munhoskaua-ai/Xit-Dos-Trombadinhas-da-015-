@@ -1,4 +1,4 @@
-# Xit-Dos-Trombadinhas-da-015-
+# Xit-Dos-Trombadinhas-da-015
 if game.PlaceId == 2753915549 then
     World1 = true
 elseif game.PlaceId == 4442272183 then
